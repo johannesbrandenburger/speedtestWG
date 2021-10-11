@@ -1,0 +1,6 @@
+cd /home/pi/speedtestWG
+
+
+git commit -a -m "update data"
+
+git push https://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@github.com/johannesbrandenburger/speedtestWG.git
