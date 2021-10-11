@@ -3,4 +3,4 @@ cd /home/pi/speedtestWG
 
 git commit -a -m "update data"
 
-git push https://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@github.com/johannesbrandenburger/speedtestWG.git
+git push https://$GITTOKEN@github.com/johannesbrandenburger/speedtestWG.git
