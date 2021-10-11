@@ -1,6 +1,6 @@
 cd /home/pi/speedtestWG
 
-
+git pull
 git commit -a -m "update data"
 
 git push https://$GITTOKEN@github.com/johannesbrandenburger/speedtestWG.git
