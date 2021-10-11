@@ -2,5 +2,5 @@ cd /home/pi/speedtestWG
 
 git pull
 git commit -a -m "update data"
-
+GITTOKEN=$(cut /home/pi/gittoken.txt)
 git push https://$GITTOKEN@github.com/johannesbrandenburger/speedtestWG.git
