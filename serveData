@@ -1,0 +1,5 @@
+cd /home/ubuntu/speedtestWG/speedtestWG;
+
+git pull;
+
+python3 -m https.server
