@@ -34,3 +34,5 @@
 [2021-10-12 09:52:10.219] [error] Error: [11] Cannot read from socket: Resource temporarily unavailable
 [2021-10-12 09:56:09.019] [error] Error: [11] Cannot read: Resource temporarily unavailable
 [2021-10-12 10:10:07.739] [error] Error: [11] Cannot read from socket: Resource temporarily unavailable
+[2021-10-12 10:17:08.763] [error] Error: [110] Cannot open socket: Timeout occurred in connect.
+[2021-10-12 10:18:09.259] [error] Error: [11] Cannot read: Resource temporarily unavailable
