@@ -54,3 +54,4 @@
 [2021-10-12 11:11:13.259] [error] Error: [11] Cannot read: Resource temporarily unavailable
 [2021-10-12 11:25:38.762] [error] Trying to get interface information on non-initialized socket.
 [2021-10-12 11:28:41.294] [error] Trying to get interface information on non-initialized socket.
+[2021-10-12 11:32:11.633] [error] Error: [110] Cannot open socket: Timeout occurred in connect.
