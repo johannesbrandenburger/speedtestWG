@@ -58,3 +58,5 @@
 [2021-10-12 11:35:08.219] [error] Error: [11] Cannot read: Resource temporarily unavailable
 [2021-10-12 11:36:12.699] [error] Error: [11] Cannot read from socket: Resource temporarily unavailable
 [2021-10-12 11:37:45.705] [error] Trying to get interface information on non-initialized socket.
+[2021-10-12 12:21:11.615] [error] Failed to resolve host name. Cancelling test suite.
+[2021-10-12 12:21:11.616] [error] Test failed to complete: Host resolve failed: Timeout occurred in connect.
