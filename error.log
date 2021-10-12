@@ -213,3 +213,4 @@
 [2021-10-12 16:04:11.743] [error] ConfigurationError - Could not retrieve or read configuration (Configuration)
 [2021-10-12 16:04:11.743] [error] ConfigurationError - Could not retrieve or read configuration (Configuration)
 [2021-10-12 16:04:11.744] [error] Configuration - Could not retrieve or read configuration (ConfigurationError)
+[2021-10-12 17:26:09.294] [error] Error: [110] Cannot open socket: Timeout occurred in connect.
