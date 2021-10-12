@@ -39,3 +39,7 @@
 [2021-10-12 10:20:10.059] [error] Error: [11] Cannot read from socket: Resource temporarily unavailable
 [2021-10-12 10:27:49.182] [error] Trying to get interface information on non-initialized socket.
 [2021-10-12 10:29:17.179] [error] Error: [11] Cannot read: Resource temporarily unavailable
+[2021-10-12 10:41:11.019] [error] Error: [11] Cannot read: Resource temporarily unavailable
+[2021-10-12 10:41:14.459] [error] Error: [11] Cannot read: Resource temporarily unavailable
+[2021-10-12 10:41:14.619] [error] Error: [11] Cannot read: Resource temporarily unavailable
+[2021-10-12 10:43:12.939] [error] Error: [11] Cannot read: Resource temporarily unavailable
