@@ -1470,3 +1470,4 @@
 [2021-10-13 17:36:23.108] [error] Test failed to complete: Cannot open socket: Timeout occurred in connect.
 [2021-10-13 19:16:23.883] [error] Test failed to complete: Cannot open socket: Timeout occurred in connect.
 [2021-10-13 20:16:06.618] [error] Error: [110] Cannot open socket: Timeout occurred in connect.
+[2021-10-13 20:21:24.197] [error] Test failed to complete: Cannot open socket: Timeout occurred in connect.
