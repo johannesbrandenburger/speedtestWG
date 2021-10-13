@@ -1472,3 +1472,5 @@
 [2021-10-13 20:16:06.618] [error] Error: [110] Cannot open socket: Timeout occurred in connect.
 [2021-10-13 20:21:24.197] [error] Test failed to complete: Cannot open socket: Timeout occurred in connect.
 [2021-10-13 20:37:13.245] [error] Test failed to complete: Cannot open socket: Timeout occurred in connect.
+[2021-10-13 20:56:12.081] [error] Error: [11] Cannot read from socket: Resource temporarily unavailable
+[2021-10-13 20:59:32.567] [error] Test failed to complete: Cannot open socket: Timeout occurred in connect.
