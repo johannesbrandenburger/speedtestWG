@@ -1037,3 +1037,33 @@
 [2021-10-13 12:25:11.978] [error] ConfigurationError - Could not retrieve or read configuration (Configuration)
 [2021-10-13 12:25:11.978] [error] ConfigurationError - Could not retrieve or read configuration (Configuration)
 [2021-10-13 12:25:11.979] [error] Configuration - Could not retrieve or read configuration (ConfigurationError)
+[2021-10-13 12:26:06.892] [error] Trying to get interface information on non-initialized socket.
+[2021-10-13 12:26:12.409] [error] Configuration - Couldn't resolve host name (HostNotFoundException)
+[2021-10-13 12:26:12.409] [error] Configuration - Cannot retrieve configuration document (0)
+[2021-10-13 12:26:12.410] [error] ConfigurationError - Could not retrieve or read configuration (Configuration)
+[2021-10-13 12:26:12.410] [error] ConfigurationError - Could not retrieve or read configuration (Configuration)
+[2021-10-13 12:26:12.410] [error] Configuration - Could not retrieve or read configuration (ConfigurationError)
+[2021-10-13 12:27:06.474] [error] Trying to get interface information on non-initialized socket.
+[2021-10-13 12:27:11.991] [error] Configuration - Couldn't resolve host name (HostNotFoundException)
+[2021-10-13 12:27:11.995] [error] Configuration - Cannot retrieve configuration document (0)
+[2021-10-13 12:27:11.996] [error] ConfigurationError - Could not retrieve or read configuration (Configuration)
+[2021-10-13 12:27:11.996] [error] ConfigurationError - Could not retrieve or read configuration (Configuration)
+[2021-10-13 12:27:11.996] [error] Configuration - Could not retrieve or read configuration (ConfigurationError)
+[2021-10-13 12:28:06.053] [error] Trying to get interface information on non-initialized socket.
+[2021-10-13 12:28:11.570] [error] Configuration - Couldn't resolve host name (HostNotFoundException)
+[2021-10-13 12:28:11.570] [error] Configuration - Cannot retrieve configuration document (0)
+[2021-10-13 12:28:11.570] [error] ConfigurationError - Could not retrieve or read configuration (Configuration)
+[2021-10-13 12:28:11.571] [error] ConfigurationError - Could not retrieve or read configuration (Configuration)
+[2021-10-13 12:28:11.571] [error] Configuration - Could not retrieve or read configuration (ConfigurationError)
+[2021-10-13 12:29:06.629] [error] Trying to get interface information on non-initialized socket.
+[2021-10-13 12:29:12.156] [error] Configuration - Couldn't resolve host name (HostNotFoundException)
+[2021-10-13 12:29:12.165] [error] Configuration - Cannot retrieve configuration document (0)
+[2021-10-13 12:29:12.165] [error] ConfigurationError - Could not retrieve or read configuration (Configuration)
+[2021-10-13 12:29:12.165] [error] ConfigurationError - Could not retrieve or read configuration (Configuration)
+[2021-10-13 12:29:12.166] [error] Configuration - Could not retrieve or read configuration (ConfigurationError)
+[2021-10-13 12:30:06.237] [error] Trying to get interface information on non-initialized socket.
+[2021-10-13 12:30:11.754] [error] Configuration - Couldn't resolve host name (HostNotFoundException)
+[2021-10-13 12:30:11.754] [error] Configuration - Cannot retrieve configuration document (0)
+[2021-10-13 12:30:11.755] [error] ConfigurationError - Could not retrieve or read configuration (Configuration)
+[2021-10-13 12:30:11.755] [error] ConfigurationError - Could not retrieve or read configuration (Configuration)
+[2021-10-13 12:30:11.755] [error] Configuration - Could not retrieve or read configuration (ConfigurationError)
