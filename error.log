@@ -1468,3 +1468,4 @@
 [2021-10-13 17:22:10.044] [error] ConfigurationError - Could not retrieve or read configuration (Configuration)
 [2021-10-13 17:22:10.044] [error] Configuration - Could not retrieve or read configuration (ConfigurationError)
 [2021-10-13 17:36:23.108] [error] Test failed to complete: Cannot open socket: Timeout occurred in connect.
+[2021-10-13 19:16:23.883] [error] Test failed to complete: Cannot open socket: Timeout occurred in connect.
