@@ -2642,3 +2642,4 @@
 [2021-10-14 00:13:11.987] [error] Configuration - Could not retrieve or read configuration (ConfigurationError)
 [2021-10-17 22:06:07.080] [error] Error: [11] Cannot read: Resource temporarily unavailable
 [2021-10-17 22:06:07.081] [error] Test failed to complete: Latency test failed for both TCP, and no HTTP URL available.
+[2021-10-18 09:08:06.146] [error] Trying to get interface information on non-initialized socket.
